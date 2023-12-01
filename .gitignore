@@ -1,0 +1,8 @@
+venv/
+3-getting-started/
+__pycache__/
+*.pyc
+digit.ipynb
+housing.ipynb
+IMDB.ipynb
+REUTERS.ipynb
